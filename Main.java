@@ -10,7 +10,7 @@ public class Main {
         int Length = 26;
         int Height = 29;
         double Square = 0.5 * Length * Height;
-        System.out.printf("Square   " + Square);
+        System.out.printf("Square  " + Square);
 
 
     }
